@@ -49,3 +49,8 @@ body {
 
 
 }
+
+.principal-aviso{
+    font-size: 14px;
+    color: var(--cinza-secundario);
+}

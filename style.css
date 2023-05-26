@@ -1,12 +1,17 @@
 :root{
     --branco-principal: white;
+    --cinza-secundario: #c0c0c0;
     --botao-azul: blue;
     --cor-de-fundo: black;
+    --fonte-principal: 'Inter';
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 
 }
 
@@ -35,4 +40,12 @@ body {
     padding: 16px;
     text-decoration: none;
     display: block;
+}
+
+.pricipal-titulo{
+    font-size: 28px;
+    font-weight: 700;
+
+
+
 }

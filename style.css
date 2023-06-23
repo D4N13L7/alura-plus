@@ -96,4 +96,9 @@ body {
 }
 .dispositivos-lista{
     display: flex;
+
+}
+
+.dispositivos{
+    text-align: center;
 }
